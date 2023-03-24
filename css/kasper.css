@@ -1249,4 +1249,17 @@ nav .form i {
   font-weight: bold;
 }
 
+.go-up {
+  position: fixed;
+  width: 40px;
+  height: 40px;
+  bottom: 0;
+  right: 0;
+  color: var(--main-color);
+}
+
+.go-up:
+
+
+
 /* End Footer */
